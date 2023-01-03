@@ -1,0 +1,125 @@
+#navbar-ccpx{
+    background-color: #FFD900;
+}
+
+
+#centro-ccpx{
+    display:flex;
+}
+
+#text-ccpx{
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding: 10px 30px 10px 30px;
+
+}
+
+
+.timer h1{
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 85px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+
+#centro-ccpx #texto{
+    background-color: #514988;
+    color:white;
+    width: 802px;
+    height: 637px;
+    padding: 10px 30px 10px 30px;
+
+}
+
+#centro-ccpx #texto h1{
+    color:#F3C61F;
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 85px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+#titulos-ccpx{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#centro-ccpx #texto h5{
+    color:white;    
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+}
+
+
+.timer{
+    display:grid;
+    grid-auto-flow: column;
+    align-items: center;
+    margin-left:50px;
+    color:#514988;
+    
+}
+
+#frase-avaliacao{
+    color:#E33881;
+    margin-left:100px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36px;
+
+}
+
+#cartazes{
+    display:flex;
+}
+
+#frase-motivadora{
+    color: #F3C61F;
+    margin-left: 50px;
+    font-family: Verdana;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+   
+
+}
+
+#rodape-ccpx{
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+
+#rodape-ccpx button{
+    width: 500px;
+    height: 120px;
+    background-color: #514988;
+    color:white;
+    border-radius: 30px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#rodape-ccpx button:hover{
+    color: #F3C61F;
+
+}
